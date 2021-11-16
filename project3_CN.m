@@ -1,4 +1,4 @@
-%Aman Kumar Verma(17BT30001)
+%Akshay kumar(18BT30002)
 clc;
 clear;
 warning off;
@@ -8,7 +8,7 @@ enc_dec;
 
 function enc_dec
 % Loading the data file given in th project
-load('data_cn_project_3.mat');
+load('data_cn_project_iii_a17.mat');
 
 %% AUTOCORRELATION FUNCTION 
 x=Stimulus;     % To store the time series
